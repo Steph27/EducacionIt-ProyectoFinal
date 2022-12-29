@@ -5,7 +5,7 @@ const stockAuriculares = [
         cantidad: 1,
         desc: "Auricular para iphone con cable",
         precio: 3000,
-        img: "./img/auriculares/auri lighting.jpeg",
+        img: "../img/auriculares/auri lighting.jpeg",
     },
     {
         id: 11,
@@ -13,7 +13,7 @@ const stockAuriculares = [
         cantidad: 1,
         desc: "Auricular bluetooth",
         precio: 8400,
-        img: "./img/auriculares/earpods.jpg",
+        img: "../img/auriculares/earpods.jpg",
     },
     {
         id: 12,
@@ -21,7 +21,7 @@ const stockAuriculares = [
         cantidad: 1,
         desc: "Protector de airpods motivo Disney",
         precio: 1400,
-        img: "./img/auriculares/protectores disney.jpeg",
+        img: "../img/auriculares/protectores disney.jpeg",
     },
     {
         id: 13,
@@ -29,7 +29,7 @@ const stockAuriculares = [
         cantidad: 1,
         desc: "Auriculares manos libres samsung AKG",
         precio: 5900,
-        img: "./img/auriculares/auri samsung.jpeg",
+        img: "../img/auriculares/auri samsung.jpeg",
     },
     {
         id: 14,
@@ -37,7 +37,7 @@ const stockAuriculares = [
         cantidad: 1,
         desc: "Auriculares vincha",
         precio: 5900,
-        img: "./img/auriculares/auri vincha.jpg",
+        img: "../img/auriculares/auri vincha.jpg",
     },
     {
         id: 15,
@@ -45,7 +45,7 @@ const stockAuriculares = [
         cantidad: 1,
         desc: "Auriculares manos libres colores pasteles",
         precio: 1490,
-        img: "./img/auriculares/auri.jpg",
+        img: "../img/auriculares/auri.jpg",
     },
 
 ];

@@ -5,7 +5,7 @@ const stockCargadores = [
         cantidad: 1,
         desc: "Adaptador para enchufes del exterior",
         precio: 350,
-        img: "./img/cargadores/adapter.jpg",
+        img: "../img/cargadores/adapter.jpg",
     },
     {
         id: 2,
@@ -13,7 +13,7 @@ const stockCargadores = [
         cantidad: 1,
         desc: "Cargador turbo power USB con entrada tipo C",
         precio: 7990,
-        img: "./img/cargadores/tipoC.jpg",
+        img: "../img/cargadores/tipoC.jpg",
     },
     {
         id: 3,
@@ -21,7 +21,7 @@ const stockCargadores = [
         cantidad: 1,
         desc: "Cargador usb con doble puerto USB",
         precio: 2490,
-        img: "./img/cargadores/turbo.jpg",
+        img: "../img/cargadores/turbo.jpg",
     },
     {
         id: 4,
@@ -29,7 +29,7 @@ const stockCargadores = [
         cantidad: 1,
         desc: "Cargador inalambrico SmartWatch",
         precio: 2800,
-        img: "./img/cargadores/inalambrico.jpg",
+        img: "../img/cargadores/inalambrico.jpg",
     },
     {
         id: 5,
@@ -37,7 +37,7 @@ const stockCargadores = [
         cantidad: 1,
         desc: "Cargador portatil - 1000maH",
         precio: 3200,
-        img: "./img/cargadores/portatil.jpeg",
+        img: "../img/cargadores/portatil.jpeg",
     },
     {
         id: 6,
@@ -45,7 +45,7 @@ const stockCargadores = [
         cantidad: 1,
         desc: "Cargador portatil - 5000maH",
         precio: 5000,
-        img: "./img/cargadores/power bank.jpg",
+        img: "../img/cargadores/power bank.jpg",
     },
     {
         id: 7,
@@ -53,7 +53,7 @@ const stockCargadores = [
         cantidad: 1,
         desc: "Cargador portatil con indicador LED - 5000maH",
         precio: 5000,
-        img: "./img/cargadores/portatil con LED.jpeg",
+        img: "../img/cargadores/portatil con LED.jpeg",
     },
     {
         id: 8,
@@ -61,7 +61,7 @@ const stockCargadores = [
         cantidad: 1,
         desc: "come cable protector de cable",
         precio: 890,
-        img: "./img/cargadores/come cable animales.jpeg",
+        img: "../img/cargadores/come cable animales.jpeg",
     },
     {
         id: 9,
@@ -69,7 +69,7 @@ const stockCargadores = [
         cantidad: 1,
         desc: "come cable protector de cable",
         precio: 890,
-        img: "./img/cargadores/come cable.jpeg",
+        img: "../img/cargadores/come cable.jpeg",
     },
 
 ];
